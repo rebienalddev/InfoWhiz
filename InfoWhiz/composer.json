@@ -1,0 +1,7 @@
+{
+    "name": "kheicarpio/info-whiz",
+    "require": {
+        "guzzlehttp/guzzle": "*",
+        "smalot/pdfparser": "*"
+    }
+}

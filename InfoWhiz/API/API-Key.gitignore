@@ -1,0 +1,2 @@
+Gemini Key : AIzaSyBMqLHAjRLoYZK1vmYqNAOfe4A8uf_Z3-8
+$url = "https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash:generateContent";

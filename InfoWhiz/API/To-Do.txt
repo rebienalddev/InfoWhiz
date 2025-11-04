@@ -1,0 +1,4 @@
+1. A.I Integration: Gemini
+2. Game Library - Nicole
+3. PDF_Upload Function 
+4. User Profile
